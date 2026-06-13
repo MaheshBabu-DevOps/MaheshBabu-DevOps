@@ -66,14 +66,6 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 ### ☁️ Cloud & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-ecs&logoColor=white" />
-  <img src="https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECR-%23FF9900.svg?style=for-the-badge&logo=amazon-ecr&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
@@ -81,6 +73,7 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ### 🐳 Containers & Orchestration
@@ -89,18 +82,24 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/Rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" />
 </p>
 
 ### 🏗️ IaC & Security
 <p align="left">
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/CodeAnt%20AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ### 📊 Monitoring
 <p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nagios-006DB6?style=for-the-badge&logo=nagios&logoColor=white" />
 </p>
 
 ### 💻 Programming & Scripting
@@ -115,6 +114,8 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />

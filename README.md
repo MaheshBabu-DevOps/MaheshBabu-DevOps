@@ -14,6 +14,8 @@
 <tr>
 <td width="50%" align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="developer typing" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,ansible,grafana,prometheus&perline=5" />
 </td>
 <td width="50%" align="center">
   <img src="terminal.svg" width="100%" alt="terminal animation" />

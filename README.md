@@ -10,9 +10,16 @@
 
 ---
 
-<p align="center">
-  <img src="terminal.svg" width="620" alt="terminal animation" />
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="developer typing" />
+</td>
+<td width="50%" align="center">
+  <img src="terminal.svg" width="100%" alt="terminal animation" />
+</td>
+</tr>
+</table>
 
 ---
 

@@ -67,8 +67,14 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-ecs&logoColor=white" />
   <img src="https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECR-%23FF9900.svg?style=for-the-badge&logo=amazon-ecr&logoColor=white" />
   <img src="https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ### ⚙️ CI/CD

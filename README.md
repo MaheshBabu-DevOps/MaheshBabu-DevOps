@@ -39,6 +39,21 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 
 ---
 
+## 🎓 Certifications & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Level%206-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/17%20Badges-Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--400-Azure%20DevOps%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+| Trophy | Description | Date |
+|--------|-------------|------|
+| 🏆 AZ-400 | Implement CI with Azure Pipelines and GitHub Actions | Jun 6, 2026 |
+| 🏆 AZ-400 | Define and implement continuous integration | Jun 6, 2026 |
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure

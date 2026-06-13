@@ -20,7 +20,7 @@ Role     : AWS DevOps Engineer
 Company  : Ati Motors Pvt Ltd (R&D), Bangalore
 Experience: 4 Years
 Location : Bangalore, India 🇮🇳
-Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps
+Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 ```
 
 - 🔭 Currently working on **AI-Powered CI/CD Automation with Jenkins MCP + Claude AI**

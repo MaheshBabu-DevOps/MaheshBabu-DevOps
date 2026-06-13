@@ -10,9 +10,16 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480" alt="developer typing" />
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="developer typing" />
+</td>
+<td width="50%" align="center">
+  <img src="terminal.svg" width="100%" alt="terminal animation" />
+</td>
+</tr>
+</table>
 
 ---
 

@@ -13,7 +13,6 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name     : Mahesh Babu
 Location : Bangalore, India 🇮🇳
 Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 ```

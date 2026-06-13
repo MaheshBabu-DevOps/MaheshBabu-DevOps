@@ -50,13 +50,13 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 
 | Certificate | Issuer |
 |-------------|--------|
-| 🤖 Introduction to Model Context Protocol | Anthropic |
-| 🤖 Claude Code in Action | Anthropic |
-| 🧠 Introduction to Artificial Intelligence | LinkedIn |
-| 🧠 Career Essentials in Generative AI | Microsoft & LinkedIn |
-| 🐧 Proficient in Linux for AWS DevOps | SDLC ITI Training, Bangalore |
-| ☁️ AWS DevOps Certified | StarAgile |
-| <a href="https://courses.staragile.skillsnetwork.site/certificates/3582d835ba4947b0b88e996bdd81f4d4" target="_blank"><img src="https://img.shields.io/badge/IBM-DevOps%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a> | IBM |
+| <a href="https://verify.skilljar.com/c/6ri5nz2b4it4" target="_blank"><img src="https://img.shields.io/badge/Introduction%20to%20Model%20Context%20Protocol-191919?style=for-the-badge&logo=anthropic&logoColor=white" /></a> | ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) |
+| <a href="https://verify.skilljar.com/c/nz3tbjpaprrw" target="_blank"><img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-191919?style=for-the-badge&logo=anthropic&logoColor=white" /></a> | ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) |
+| <a href="https://www.linkedin.com/learning/certificates/b760bfeda7b85b0a0ab8a39155bc432b5f4ac3e66af1f171ebdf69e60d14af5f" target="_blank"><img src="https://img.shields.io/badge/Introduction%20to%20Artificial%20Intelligence-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) |
+| <a href="https://www.linkedin.com/learning/certificates/325fc890db7bd7e504ddbbcdb47a202fe294359f6edf2e5949605df42b102c68" target="_blank"><img src="https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a> | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) |
+| 🐧 Proficient in Linux for AWS DevOps | ![SDLC](https://img.shields.io/badge/SDLC%20ITI-Bangalore-orange?style=flat-square&logo=linux&logoColor=white) |
+| ☁️ AWS DevOps Certified | ![StarAgile](https://img.shields.io/badge/StarAgile-FF6B35?style=flat-square&logo=amazonaws&logoColor=white) |
+| <a href="https://courses.staragile.skillsnetwork.site/certificates/3582d835ba4947b0b88e996bdd81f4d4" target="_blank"><img src="https://img.shields.io/badge/IBM-DevOps%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a> | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) |
 
 ---
 

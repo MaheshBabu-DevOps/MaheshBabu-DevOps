@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Babu!;AWS+DevOps+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Babu!;AWS+DevOps+Engineer+%F0%9F%9A%80;AWS+DevOps+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,8 +14,6 @@
 <tr>
 <td width="50%" align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="developer typing" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,ansible,grafana,prometheus&perline=5" />
 </td>
 <td width="50%" align="center">
   <img src="terminal.svg" width="100%" alt="terminal animation" />

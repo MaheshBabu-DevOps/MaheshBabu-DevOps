@@ -10,14 +10,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-Location : Bangalore, India 🇮🇳
-Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
-```
-
-
 ---
 
 ## 🏆 Trophies

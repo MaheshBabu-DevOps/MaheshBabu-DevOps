@@ -11,7 +11,9 @@
 ---
 
 <p align="center">
-  <img src="terminal.svg" width="600" alt="terminal animation" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="45%" alt="coding" />
+  &nbsp;&nbsp;
+  <img src="terminal.svg" width="50%" alt="terminal animation" />
 </p>
 
 ---

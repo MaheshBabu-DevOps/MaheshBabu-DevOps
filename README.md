@@ -122,7 +122,7 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps
 
 <p align="center">
   <a href="https://linkedin.com/in/maheshbabu-devops" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahesh%20Babu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://youtube.com/@aidevopsupdates?si=8XMfAIyYP7rMuste" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-AI%20%26%20DevOps%20Updates-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -131,7 +131,7 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps
     <img src="https://img.shields.io/badge/Portfolio-mahesh--cloud--devops-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maheshtemmanaboina@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-maheshtemmanaboina-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

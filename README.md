@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Babu!;AWS+DevOps+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 A passionate DevOps Engineer from India 🇮🇳</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu-DevOps&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/MaheshBabu-DevOps?label=Followers&style=for-the-badge&color=00d4ff" alt="followers" />
@@ -16,7 +14,6 @@
 
 ```yaml
 Name     : Mahesh Babu
-Role     : AWS DevOps Engineer
 Location : Bangalore, India 🇮🇳
 Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 ```

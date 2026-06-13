@@ -48,16 +48,15 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 
 ## 🎓 Certifications & Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-Level%206-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/17%20Badges-Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--400-Azure%20DevOps%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
-| Trophy | Description | Date |
-|--------|-------------|------|
-| 🏆 AZ-400 | Implement CI with Azure Pipelines and GitHub Actions | Jun 6, 2026 |
-| 🏆 AZ-400 | Define and implement continuous integration | Jun 6, 2026 |
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| 🤖 Introduction to Model Context Protocol | Anthropic | Mar 2026 |
+| 🤖 Claude Code in Action | Anthropic | Mar 2026 |
+| 🧠 Introduction to Artificial Intelligence | LinkedIn | Sep 2024 |
+| 🧠 Career Essentials in Generative AI | Microsoft & LinkedIn | Sep 2024 |
+| 🐧 Proficient in Linux for AWS DevOps | SDLC ITI Training, Bangalore | Mar 2022 |
+| ☁️ AWS DevOps Certified | StarAgile | Jul 2023 |
+| <a href="https://courses.staragile.skillsnetwork.site/certificates/3582d835ba4947b0b88e996bdd81f4d4" target="_blank"><img src="https://img.shields.io/badge/IBM-DevOps%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a> | IBM | Sep 2023 |
 
 ---
 

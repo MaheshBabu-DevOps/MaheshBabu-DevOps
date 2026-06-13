@@ -130,7 +130,7 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps
   <a href="https://mahesh-cloud-devops.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-mahesh--cloud--devops-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:maheshtemmanaboina@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maheshtemmanaboina@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-maheshtemmanaboina-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu-DevOps&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/MaheshBabu-DevOps?label=Followers&style=for-the-badge&color=00d4ff" alt="followers" />
-  <img src="https://img.shields.io/badge/Experience-3.7%20Years-brightgreen?style=for-the-badge" alt="experience" />
+  <img src="https://img.shields.io/badge/Experience-4%20Years-brightgreen?style=for-the-badge" alt="experience" />
 </p>
 
 ---
@@ -18,9 +18,8 @@
 Name     : Mahesh Babu
 Role     : AWS DevOps Engineer
 Company  : Ati Motors Pvt Ltd (R&D), Bangalore
-Experience: 3.7 Years
+Experience: 4 Years
 Location : Bangalore, India 🇮🇳
-Portfolio: mahesh-cloud-devops.vercel.app
 Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps
 ```
 
@@ -29,7 +28,6 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps
 - 👯 Looking to collaborate on **DevOps Automation & Cloud Infrastructure Projects**
 - 💬 Ask me about **DevOps, AWS, Docker, Kubernetes, Jenkins, CI/CD, Linux**
 - 📫 Reach me at **maheshtemmanaboina@gmail.com**
-- 🌐 Portfolio: **[mahesh-cloud-devops.vercel.app](https://mahesh-cloud-devops.vercel.app)**
 - ⚡ Fun fact: **Coffee + Terminal + Cloud = My entire personality ☕🖥️☁️**
 
 ---

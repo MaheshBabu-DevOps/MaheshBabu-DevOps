@@ -17,12 +17,13 @@
 ```yaml
 Name     : Mahesh Babu
 Role     : AWS DevOps Engineer
-Company  : Ati Motors Pvt Ltd (R&D), Bangalore
+Company  : Ati Robotics, Bangalore
 Experience: 4 Years
 Location : Bangalore, India 🇮🇳
 Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 ```
 
+- 🏢 Currently at **[Ati Robotics, Bangalore](https://www.atirobotics.ai/)**
 - 🔭 Currently working on **AI-Powered CI/CD Automation with Jenkins MCP + Claude AI**
 - 🌱 Currently learning **AWS Advanced Services, GitOps with ArgoCD, AI-Driven DevOps**
 - 👯 Looking to collaborate on **DevOps Automation & Cloud Infrastructure Projects**

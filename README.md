@@ -37,6 +37,17 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
   <img src="https://github-profile-trophy.vercel.app/?username=MaheshBabu-DevOps&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 </p>
 
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/maheshbabu-6420/achievements/print/8vaznhzw?source=docs&tab=tab-learning-paths" target="_blank">
+    <img src="https://img.shields.io/badge/🏆%20AZ--400-Implement%20CI%20with%20Azure%20Pipelines%20%26%20GitHub%20Actions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/maheshbabu-6420/achievements/print/xpvmf9by?source=docs&tab=tab-learning-paths" target="_blank">
+    <img src="https://img.shields.io/badge/🏆%20AZ--400-Define%20and%20Implement%20Continuous%20Integration-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🎓 Certifications & Achievements

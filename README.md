@@ -17,7 +17,6 @@
 ```yaml
 Name     : Mahesh Babu
 Role     : AWS DevOps Engineer
-Company  : Ati Robotics (R&D), Bangalore
 Location : Bangalore, India 🇮🇳
 Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 ```

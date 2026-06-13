@@ -17,13 +17,13 @@
 ```yaml
 Name     : Mahesh Babu
 Role     : AWS DevOps Engineer
-Company  : Ati Robotics, Bangalore
+Company  : Ati Robotics (R&D), Bangalore
 Experience: 4 Years
 Location : Bangalore, India 🇮🇳
 Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 ```
 
-- 🏢 Currently at **[Ati Robotics, Bangalore](https://www.atirobotics.ai/)**
+- 🏢 Currently at **[Ati Robotics (R&D), Bangalore](https://www.atirobotics.ai/)**
 - 🔭 Currently working on **AI-Powered CI/CD Automation with Jenkins MCP + Claude AI**
 - 🌱 Currently learning **AWS Advanced Services, GitOps with ArgoCD, AI-Driven DevOps**
 - 👯 Looking to collaborate on **DevOps Automation & Cloud Infrastructure Projects**
@@ -114,8 +114,6 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />

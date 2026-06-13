@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Babu!;AWS+DevOps+Engineer+%F0%9F%9A%80;CI%2FCD+%7C+Kubernetes+%7C+Docker+%7C+Terraform;AI-Powered+DevOps+Automation+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Babu!;AWS+DevOps+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 A passionate DevOps Engineer from India 🇮🇳</h3>

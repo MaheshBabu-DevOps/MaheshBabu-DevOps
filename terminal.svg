@@ -1,64 +1,15 @@
 <svg width="620" height="320" viewBox="0 0 620 320" xmlns="http://www.w3.org/2000/svg">
   <!--
-    Total: 26s
-    Phase1 DevOps : appear 0-10s, hold 10-11s, FULLY GONE by 13s (50%)
-    GAP           : 13s-14s (blank screen)
-    Phase2 Linux  : appear 14-21s, hold 21-22s, FULLY GONE by 24s (92%)
-    Reset         : 24-26s
+    Total: 26s | Phase1(DevOps): 0-11s | Gap: 11-14s | Phase2(Linux): 14-23s | Gap: 23-26s
+    keyTimes percentages of 26s:
+      Phase1 fully gone  = 13/26 = 0.50
+      Phase2 starts      = 14/26 = 0.54
+      Phase2 fully gone  = 24/26 = 0.92
   -->
-  <defs>
-    <style>
-      .cursor { animation: blink 1s infinite; }
-      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
 
-      /* Phase1 lines: appear at X%, hold until 42%, gone by 50% */
-      .d1  { animation: d1  26s infinite; opacity:0; }
-      .d2  { animation: d2  26s infinite; opacity:0; }
-      .d3  { animation: d3  26s infinite; opacity:0; }
-      .d4  { animation: d4  26s infinite; opacity:0; }
-      .d5  { animation: d5  26s infinite; opacity:0; }
-      .d6  { animation: d6  26s infinite; opacity:0; }
-      .d7  { animation: d7  26s infinite; opacity:0; }
-      .d8  { animation: d8  26s infinite; opacity:0; }
-      .d9  { animation: d9  26s infinite; opacity:0; }
-      .d10 { animation: d10 26s infinite; opacity:0; }
-
-      /* Phase2 lines: appear at X%, hold until 85%, gone by 92% */
-      .l1  { animation: l1  26s infinite; opacity:0; }
-      .l2  { animation: l2  26s infinite; opacity:0; }
-      .l3  { animation: l3  26s infinite; opacity:0; }
-      .l4  { animation: l4  26s infinite; opacity:0; }
-      .l5  { animation: l5  26s infinite; opacity:0; }
-      .l6  { animation: l6  26s infinite; opacity:0; }
-      .l7  { animation: l7  26s infinite; opacity:0; }
-      .l8  { animation: l8  26s infinite; opacity:0; }
-
-      /* Phase1: 0-10s visible, fade 10-13s, black 13-26s */
-      @keyframes d1  { 0%{opacity:0} 2%{opacity:1}  42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d2  { 0%{opacity:0} 10%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d3  { 0%{opacity:0} 14%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d4  { 0%{opacity:0} 18%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d5  { 0%{opacity:0} 22%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d6  { 0%{opacity:0} 28%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d7  { 0%{opacity:0} 31%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d8  { 0%{opacity:0} 34%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d9  { 0%{opacity:0} 37%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-      @keyframes d10 { 0%{opacity:0} 40%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-
-      /* Phase2: 14-21s visible (54%-81%), fade 81-88%, black rest */
-      @keyframes l1  { 0%{opacity:0} 54%{opacity:0} 56%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
-      @keyframes l2  { 0%{opacity:0} 58%{opacity:0} 60%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
-      @keyframes l3  { 0%{opacity:0} 62%{opacity:0} 64%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
-      @keyframes l4  { 0%{opacity:0} 65%{opacity:0} 67%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
-      @keyframes l5  { 0%{opacity:0} 68%{opacity:0} 70%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
-      @keyframes l6  { 0%{opacity:0} 71%{opacity:0} 73%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
-      @keyframes l7  { 0%{opacity:0} 74%{opacity:0} 76%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
-      @keyframes l8  { 0%{opacity:0} 77%{opacity:0} 79%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
-    </style>
-  </defs>
-
-  <!-- Terminal shell -->
+  <!-- Background -->
   <rect width="620" height="320" rx="12" fill="#0d1117"/>
+  <!-- Title bar -->
   <rect width="620" height="36" rx="12" fill="#161b22"/>
   <rect y="24" width="620" height="12" fill="#161b22"/>
   <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
@@ -66,72 +17,127 @@
   <circle cx="64" cy="18" r="6" fill="#28c840"/>
   <text x="310" y="23" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">mahesh@devops: ~</text>
 
-  <!-- ── PHASE 1: DevOps ── -->
-  <g class="d1">
+  <!-- ══ PHASE 1: DevOps Commands ══ -->
+
+  <!-- d1: kubectl command (appears 0.5s = 1.9%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.019;0.038;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="66" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="66" font-family="monospace" font-size="13" fill="#e6edf3"> kubectl get pods -n production</text>
   </g>
-  <g class="d2">
+
+  <!-- d2: output header (2.5s = 9.6%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.096;0.115;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="84" font-family="monospace" font-size="12" fill="#6e7681">NAME                    READY   STATUS    RESTARTS</text>
   </g>
-  <g class="d3">
+
+  <!-- d3: pod1 (3.5s = 13.5%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.135;0.154;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="100" font-family="monospace" font-size="12" fill="#3fb950">nginx-deploy-xk2p9      1/1     Running   0</text>
   </g>
-  <g class="d4">
+
+  <!-- d4: pod2 (4.5s = 17.3%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.173;0.192;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="116" font-family="monospace" font-size="12" fill="#3fb950">api-server-lmn4r        1/1     Running   0</text>
   </g>
-  <g class="d5">
+
+  <!-- d5: docker command (5.5s = 21.2%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.212;0.231;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="140" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="140" font-family="monospace" font-size="13" fill="#e6edf3"> docker ps --format "{{.Names}}"</text>
   </g>
-  <g class="d6">
+
+  <!-- d6: jenkins (7s = 26.9%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.269;0.288;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="158" font-family="monospace" font-size="12" fill="#3fb950">jenkins-master</text>
   </g>
-  <g class="d7">
+
+  <!-- d7: prometheus (7.8s = 30%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.300;0.319;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="174" font-family="monospace" font-size="12" fill="#3fb950">prometheus-stack</text>
   </g>
-  <g class="d8">
+
+  <!-- d8: terraform command (8.5s = 32.7%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.327;0.346;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="198" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="198" font-family="monospace" font-size="13" fill="#e6edf3"> terraform apply -auto-approve</text>
   </g>
-  <g class="d9">
+
+  <!-- d9: terraform output (9.5s = 36.5%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.365;0.385;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="216" font-family="monospace" font-size="12" fill="#6e7681">Apply complete! Resources: 3 added, 0 changed.</text>
   </g>
-  <g class="d10">
+
+  <!-- d10: aws command (10.2s = 39.2%) -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.392;0.412;0.42;0.50;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="240" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="240" font-family="monospace" font-size="13" fill="#e6edf3"> aws eks update-kubeconfig --name prod</text>
   </g>
 
-  <!-- ── PHASE 2: Linux ── -->
-  <g class="l1">
+  <!-- ══ PHASE 2: Linux Commands (start 14s=53.8%, end 23s=88.5%) ══ -->
+
+  <!-- l1: ps aux command -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.538;0.558;0.88;0.92;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="66" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="66" font-family="monospace" font-size="13" fill="#e6edf3"> ps aux | grep nginx</text>
   </g>
-  <g class="l2">
+
+  <!-- l2: ps header -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.577;0.596;0.88;0.92;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="84" font-family="monospace" font-size="12" fill="#6e7681">USER   PID   %CPU  %MEM  COMMAND</text>
   </g>
-  <g class="l3">
+
+  <!-- l3: nginx process -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.615;0.635;0.88;0.92;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="100" font-family="monospace" font-size="12" fill="#3fb950">root   1234  0.1   0.5   nginx: master process</text>
   </g>
-  <g class="l4">
+
+  <!-- l4: systemctl command -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.654;0.673;0.88;0.92;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="124" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="124" font-family="monospace" font-size="13" fill="#e6edf3"> systemctl status docker</text>
   </g>
-  <g class="l5">
-    <text x="16" y="142" font-family="monospace" font-size="12" fill="#3fb950">● docker.service</text>
-    <text x="148" y="142" font-family="monospace" font-size="12" fill="#6e7681">  Active: active (running)</text>
+
+  <!-- l5: docker status -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.692;0.712;0.88;0.92;1" dur="26s" repeatCount="indefinite"/>
+    <text x="16" y="142" font-family="monospace" font-size="12" fill="#3fb950">● docker.service   Active: active (running)</text>
   </g>
-  <g class="l6">
+
+  <!-- l6: df command -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.731;0.750;0.88;0.92;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="166" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="166" font-family="monospace" font-size="13" fill="#e6edf3"> df -h /</text>
   </g>
-  <g class="l7">
+
+  <!-- l7: df header -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.769;0.788;0.88;0.92;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="184" font-family="monospace" font-size="12" fill="#6e7681">Filesystem   Size  Used  Avail  Use%</text>
   </g>
-  <g class="l8">
+
+  <!-- l8: df output -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.808;0.827;0.88;0.92;1" dur="26s" repeatCount="indefinite"/>
     <text x="16" y="200" font-family="monospace" font-size="12" fill="#3fb950">/dev/xvda1   20G   8.2G  12G    41%</text>
   </g>
 
-  <!-- Cursor -->
-  <rect class="cursor" x="182" y="252" width="8" height="14" fill="#00d4ff"/>
+  <!-- Blinking cursor -->
+  <rect x="182" y="252" width="8" height="14" fill="#00d4ff">
+    <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>

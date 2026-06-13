@@ -1,57 +1,63 @@
 <svg width="620" height="320" viewBox="0 0 620 320" xmlns="http://www.w3.org/2000/svg">
-  <!-- Total loop: 24s | Phase1 DevOps: 0-10s | Phase2 Linux: 12-21s | Fade: 21-23s | Reset: 23-24s -->
+  <!--
+    Total: 26s
+    Phase1 DevOps : appear 0-10s, hold 10-11s, FULLY GONE by 13s (50%)
+    GAP           : 13s-14s (blank screen)
+    Phase2 Linux  : appear 14-21s, hold 21-22s, FULLY GONE by 24s (92%)
+    Reset         : 24-26s
+  -->
   <defs>
     <style>
       .cursor { animation: blink 1s infinite; }
       @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
 
-      /* Phase 1: DevOps — appear between 0-10s, fade 10-11s */
-      .d1  { animation: d1  24s infinite; opacity:0; }
-      .d2  { animation: d2  24s infinite; opacity:0; }
-      .d3  { animation: d3  24s infinite; opacity:0; }
-      .d4  { animation: d4  24s infinite; opacity:0; }
-      .d5  { animation: d5  24s infinite; opacity:0; }
-      .d6  { animation: d6  24s infinite; opacity:0; }
-      .d7  { animation: d7  24s infinite; opacity:0; }
-      .d8  { animation: d8  24s infinite; opacity:0; }
-      .d9  { animation: d9  24s infinite; opacity:0; }
-      .d10 { animation: d10 24s infinite; opacity:0; }
+      /* Phase1 lines: appear at X%, hold until 42%, gone by 50% */
+      .d1  { animation: d1  26s infinite; opacity:0; }
+      .d2  { animation: d2  26s infinite; opacity:0; }
+      .d3  { animation: d3  26s infinite; opacity:0; }
+      .d4  { animation: d4  26s infinite; opacity:0; }
+      .d5  { animation: d5  26s infinite; opacity:0; }
+      .d6  { animation: d6  26s infinite; opacity:0; }
+      .d7  { animation: d7  26s infinite; opacity:0; }
+      .d8  { animation: d8  26s infinite; opacity:0; }
+      .d9  { animation: d9  26s infinite; opacity:0; }
+      .d10 { animation: d10 26s infinite; opacity:0; }
 
-      /* Phase 2: Linux — appear between 12-21s, fade 21-23s */
-      .l1  { animation: l1  24s infinite; opacity:0; }
-      .l2  { animation: l2  24s infinite; opacity:0; }
-      .l3  { animation: l3  24s infinite; opacity:0; }
-      .l4  { animation: l4  24s infinite; opacity:0; }
-      .l5  { animation: l5  24s infinite; opacity:0; }
-      .l6  { animation: l6  24s infinite; opacity:0; }
-      .l7  { animation: l7  24s infinite; opacity:0; }
-      .l8  { animation: l8  24s infinite; opacity:0; }
+      /* Phase2 lines: appear at X%, hold until 85%, gone by 92% */
+      .l1  { animation: l1  26s infinite; opacity:0; }
+      .l2  { animation: l2  26s infinite; opacity:0; }
+      .l3  { animation: l3  26s infinite; opacity:0; }
+      .l4  { animation: l4  26s infinite; opacity:0; }
+      .l5  { animation: l5  26s infinite; opacity:0; }
+      .l6  { animation: l6  26s infinite; opacity:0; }
+      .l7  { animation: l7  26s infinite; opacity:0; }
+      .l8  { animation: l8  26s infinite; opacity:0; }
 
-      /* Phase1: show from X%, hold until 41%, fade by 46% */
-      @keyframes d1  { 0%{opacity:0} 2%{opacity:1}  41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d2  { 0%{opacity:0} 10%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d3  { 0%{opacity:0} 14%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d4  { 0%{opacity:0} 18%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d5  { 0%{opacity:0} 22%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d6  { 0%{opacity:0} 28%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d7  { 0%{opacity:0} 31%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d8  { 0%{opacity:0} 34%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d9  { 0%{opacity:0} 37%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
-      @keyframes d10 { 0%{opacity:0} 40%{opacity:1} 41%{opacity:1} 46%{opacity:0} 100%{opacity:0} }
+      /* Phase1: 0-10s visible, fade 10-13s, black 13-26s */
+      @keyframes d1  { 0%{opacity:0} 2%{opacity:1}  42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d2  { 0%{opacity:0} 10%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d3  { 0%{opacity:0} 14%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d4  { 0%{opacity:0} 18%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d5  { 0%{opacity:0} 22%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d6  { 0%{opacity:0} 28%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d7  { 0%{opacity:0} 31%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d8  { 0%{opacity:0} 34%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d9  { 0%{opacity:0} 37%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+      @keyframes d10 { 0%{opacity:0} 40%{opacity:1} 42%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
 
-      /* Phase2: show from X%, hold until 87%, fade by 96% */
-      @keyframes l1  { 0%{opacity:0} 50%{opacity:1} 87%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
-      @keyframes l2  { 0%{opacity:0} 55%{opacity:1} 87%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
-      @keyframes l3  { 0%{opacity:0} 59%{opacity:1} 87%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
-      @keyframes l4  { 0%{opacity:0} 63%{opacity:1} 87%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
-      @keyframes l5  { 0%{opacity:0} 67%{opacity:1} 87%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
-      @keyframes l6  { 0%{opacity:0} 71%{opacity:1} 87%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
-      @keyframes l7  { 0%{opacity:0} 75%{opacity:1} 87%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
-      @keyframes l8  { 0%{opacity:0} 79%{opacity:1} 87%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
+      /* Phase2: 14-21s visible (54%-81%), fade 81-88%, black rest */
+      @keyframes l1  { 0%{opacity:0} 54%{opacity:0} 56%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
+      @keyframes l2  { 0%{opacity:0} 58%{opacity:0} 60%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
+      @keyframes l3  { 0%{opacity:0} 62%{opacity:0} 64%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
+      @keyframes l4  { 0%{opacity:0} 65%{opacity:0} 67%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
+      @keyframes l5  { 0%{opacity:0} 68%{opacity:0} 70%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
+      @keyframes l6  { 0%{opacity:0} 71%{opacity:0} 73%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
+      @keyframes l7  { 0%{opacity:0} 74%{opacity:0} 76%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
+      @keyframes l8  { 0%{opacity:0} 77%{opacity:0} 79%{opacity:1} 85%{opacity:1} 92%{opacity:0} 100%{opacity:0} }
     </style>
   </defs>
 
-  <!-- Terminal window -->
+  <!-- Terminal shell -->
   <rect width="620" height="320" rx="12" fill="#0d1117"/>
   <rect width="620" height="36" rx="12" fill="#161b22"/>
   <rect y="24" width="620" height="12" fill="#161b22"/>
@@ -60,7 +66,7 @@
   <circle cx="64" cy="18" r="6" fill="#28c840"/>
   <text x="310" y="23" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">mahesh@devops: ~</text>
 
-  <!-- ── PHASE 1: DevOps Commands ── -->
+  <!-- ── PHASE 1: DevOps ── -->
   <g class="d1">
     <text x="16" y="66" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="66" font-family="monospace" font-size="13" fill="#e6edf3"> kubectl get pods -n production</text>
@@ -96,7 +102,7 @@
     <text x="182" y="240" font-family="monospace" font-size="13" fill="#e6edf3"> aws eks update-kubeconfig --name prod</text>
   </g>
 
-  <!-- ── PHASE 2: Linux Commands ── -->
+  <!-- ── PHASE 2: Linux ── -->
   <g class="l1">
     <text x="16" y="66" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
     <text x="182" y="66" font-family="monospace" font-size="13" fill="#e6edf3"> ps aux | grep nginx</text>
@@ -113,7 +119,7 @@
   </g>
   <g class="l5">
     <text x="16" y="142" font-family="monospace" font-size="12" fill="#3fb950">● docker.service</text>
-    <text x="142" y="142" font-family="monospace" font-size="12" fill="#6e7681">   Active: active (running)</text>
+    <text x="148" y="142" font-family="monospace" font-size="12" fill="#6e7681">  Active: active (running)</text>
   </g>
   <g class="l6">
     <text x="16" y="166" font-family="monospace" font-size="13" fill="#00d4ff">mahesh@devops:~$</text>
@@ -126,6 +132,6 @@
     <text x="16" y="200" font-family="monospace" font-size="12" fill="#3fb950">/dev/xvda1   20G   8.2G  12G    41%</text>
   </g>
 
-  <!-- Blinking cursor -->
+  <!-- Cursor -->
   <rect class="cursor" x="182" y="252" width="8" height="14" fill="#00d4ff"/>
 </svg>

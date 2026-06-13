@@ -27,7 +27,6 @@ Focus    : CI/CD Automation, Kubernetes, AI-Driven DevOps, MCP, Linux, Cloud
 - 🌱 Currently learning **AWS Advanced Services, GitOps with ArgoCD, AI-Driven DevOps**
 - 👯 Looking to collaborate on **DevOps Automation & Cloud Infrastructure Projects**
 - 💬 Ask me about **DevOps, AWS, Docker, Kubernetes, Jenkins, CI/CD, Linux**
-- 📫 Reach me at **maheshtemmanaboina@gmail.com**
 - ⚡ Fun fact: **Coffee + Terminal + Cloud = My entire personality ☕🖥️☁️**
 
 ---

@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="70%" alt="developer at dual monitors" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif1.gif" width="70%" alt="developer at dual monitors" />
 </p>
 
 ---

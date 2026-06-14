@@ -10,16 +10,9 @@
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="developer typing" />
-</td>
-<td width="50%" align="center">
-  <img src="terminal.svg" width="100%" alt="terminal animation" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="70%" alt="developer at dual monitors" />
+</p>
 
 ---
 
